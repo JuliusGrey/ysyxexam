@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ndl.h": "c",
+        "sdl-video.h": "c"
+    }
+}

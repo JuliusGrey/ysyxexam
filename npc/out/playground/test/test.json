@@ -1,0 +1,15 @@
+{
+    "value": [
+        "Tests: 1, Passed: 1, Failed: 0",
+        [
+            {
+                "fullyQualifiedName": "GCDSpec",
+                "selector": "GCDSpec.GCD",
+                "duration": 5256,
+                "status": "Success"
+            }
+        ]
+    ],
+    "valueHash": 1778242101,
+    "inputsHash": 910267193
+}

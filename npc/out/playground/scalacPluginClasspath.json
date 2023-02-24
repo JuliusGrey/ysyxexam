@@ -1,0 +1,12 @@
+{
+    "value": [
+        "qref:dba3c744:/home/pigfly/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-plugin_2.12.13/3.4.3/chisel3-plugin_2.12.13-3.4.3.jar",
+        "qref:8d76e765:/home/pigfly/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalamacros/paradise_2.12.13/2.1.1/paradise_2.12.13-2.1.1.jar",
+        "qref:e2d1c31e:/home/pigfly/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.13/scala-compiler-2.12.13.jar",
+        "qref:62d7818f:/home/pigfly/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.13/scala-library-2.12.13.jar",
+        "qref:bc949916:/home/pigfly/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.13/scala-reflect-2.12.13.jar",
+        "qref:a0dc4bad:/home/pigfly/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar"
+    ],
+    "valueHash": 204789785,
+    "inputsHash": 1919500354
+}

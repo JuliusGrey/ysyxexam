@@ -24,7 +24,7 @@ reformat:
 checkformat:
 	./mill -i __.checkFormat
 
-run: verilog
+run: 
 	$(call git_commit, "sim RTL") # DO NOT REMOVE THIS LINE!!!
 	verilator -Wno-WIDTH --top-module ysyx_041728 --cc --exe --build  csrc/*.cpp  playground/src/main/vsrc/* build/*.v  -LDFLAGS "-lSDL2 -ldl" --trace
 	# ./obj_dir/Vysyx_041728 $(IMG) ${DIFFTEST}
